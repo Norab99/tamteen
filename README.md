@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ### Generate the Trained Model
 ```bash
-py app/palm_vein/palm_vein_split_data.py
+py app/palm_vein/palm_vein_model.py
 ```
 ## Usage
 
