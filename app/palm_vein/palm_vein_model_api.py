@@ -191,7 +191,7 @@ def classify_palm_vein_image(image_bytes):
         print(f"{first} {last}")
 
         return {
-            "prediction": str(prediction[0]),
+            "prediction": str(prediction[0]+1),
             "name" : f"{first} {last}",
         }
     
