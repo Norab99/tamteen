@@ -1,6 +1,6 @@
 # Tamteen
 
-This repository hosts a script for Tamteen back-end implenetation.
+This repository hosts a script for Tamteen back-end implenetation and GUI swift implementation.
 
 ## Palm Scanner Classification
 
